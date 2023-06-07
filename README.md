@@ -20,7 +20,7 @@
 
 - 소스코드 변경
 - git add .
-- git commit -m "변경내용 적기"
+- git commit -m "변경내용"
 - git push origin master
 
 ## 잘 안될때 해결법
